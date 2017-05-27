@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FilePersistenceTest</string>
+    <string name="info_textview">Save Input Data to Local File.</string>
+    <string name="edithint">Type something here</string>
+    <string name="save_button">Save</string>
+    <string name="clear_button">Clear</string>
+</resources>
